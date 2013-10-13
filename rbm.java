@@ -9,7 +9,7 @@
 // batchdata -- the data that is divided into batches (numcases numdims numbatches)
 // restart   -- set to 1 if learning starts from beginning 
 
-//import Jama.Matrix;
+
 import java.util.Random;
 import java.lang.Math;
 
